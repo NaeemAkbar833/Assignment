@@ -4,6 +4,7 @@ C Language program for finding prime Number between 2 to 100.
 
 /* Name        :Muhammad Naeem
    father name : Ali Akbar
+   Roll Number : 52
    semester    : First
    department  : CS
    batch       : 2022-2026
